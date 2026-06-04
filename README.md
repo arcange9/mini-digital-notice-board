@@ -11,25 +11,33 @@ Mini Digital Notice Board is a simple and user-friendly desktop application buil
 This project was developed as a Computer Systems and Architecture (CSA) educational project to demonstrate the practical use of software development, file management, graphical user interfaces, and data processing.
 
 🎯 Project Objectives
+
 ✅ Display announcements digitally
 ✅ Store announcements safely
 ✅ Reduce paper usage
 ✅ Improve communication
 ✅ Demonstrate CSA concepts
 ✅ Provide an easy-to-use interface
+
 ✨ Features
 📝 Add Announcements
 Create and save important notices quickly.
+
 🕒 Automatic Timestamp
 Every message is saved with its date and time.
+
 📂 Message Storage
 Messages are stored in a local text file.
+
 📋 View Messages
 Display all saved announcements in a scrollable window.
+
 🗑️ Clear Messages
 Remove old announcements when needed.
+
 🚪 Exit Application
 Close the application safely.
+
 🖥️ Technologies Used
 Technology
 Purpose
@@ -45,24 +53,24 @@ ScrolledText
 Message Display
 
 📊 System Workflow
- Start
-  │
-  ▼
+   Start
+     │
+     ▼
 Open Application
-  │
-  ▼
+     │
+     ▼
 Enter Message
-  │
-  ▼
+     │
+     ▼
 Add Timestamp
-  │
-  ▼
+     │
+     ▼
 Save to File
-  │
-  ▼
+     │
+     ▼
 Display Message
-  │
-  ▼
+     │
+     ▼
 Continue or Exit
 
 🎓 CSA Concepts Demonstrated
@@ -123,7 +131,6 @@ Small Organizations
 👨‍💻 Developer
 Mukamyi Izere Arcange
 Level 3 Computer Systems and Architecture
-Karenge Adventist Secondary School
 
 📜 License
 This project is created for educational purposes and learning.
