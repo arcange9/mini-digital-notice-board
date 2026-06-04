@@ -96,7 +96,7 @@ Graphical User Interface (GUI)
 
 1️⃣ Clone Repository
 
-git clone https://github.com/yourusername/mini-digital-notice-board.git
+git clone https://github.com/arcange9/mini-digital-notice-board.git
 
 2️⃣ Open Project Folder
 cd mini-digital-notice-board
